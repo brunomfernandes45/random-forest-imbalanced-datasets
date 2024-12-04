@@ -53,3 +53,4 @@ urllib3==2.2.3
 wcwidth==0.2.13
 xmltodict==0.14.2
 imbalanced-learn==0.11.0
+seaborn==0.12.2
